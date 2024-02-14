@@ -69,7 +69,7 @@ where `λ > 0` is the [shape parameter][shape], `k > 0` is the [scale parameter]
 ## Usage
 
 ```javascript
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-variance@esm/index.mjs';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-variance@v0.2.0-esm/index.mjs';
 ```
 
 #### variance( k, lambda )
@@ -145,7 +145,7 @@ v = variance( 1.0, -1.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-variance@esm/index.mjs';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-variance@v0.2.0-esm/index.mjs';
 
 var lambda;
 var k;
