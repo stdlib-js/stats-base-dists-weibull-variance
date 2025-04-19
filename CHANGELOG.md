@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`1a50928`](https://github.com/stdlib-js/stdlib/commit/1a50928bcd6fc817278f120fa42686669bbf894f) - **chore:** clean-up _(by Athan Reines)_
 -   [`db56bf5`](https://github.com/stdlib-js/stdlib/commit/db56bf5c72c9856b21e27bffefb491a5ab386027) - **feat:** add C implementation for `stats/base/dists/weibull/variance` [(#4067)](https://github.com/stdlib-js/stdlib/pull/4067) _(by Gururaj Gurram, Philipp Burckhardt, stdlib-bot)_
 -   [`1ebcfd6`](https://github.com/stdlib-js/stdlib/commit/1ebcfd618beaf055a7097c89f3794d507fd14947) - **bench:** refactor random number generation in `stats/base/dists/weibull` [(#5342)](https://github.com/stdlib-js/stdlib/pull/5342) _(by Gaurav)_
 
@@ -47,8 +48,9 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Gaurav
 -   Gururaj Gurram
 -   Philipp Burckhardt
